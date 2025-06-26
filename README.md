@@ -58,8 +58,7 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 - Ability to create interactive dashboards
 - Attention to details in solving step-by-step Excel issues
 
-
-
   
+![Revenue and Discount Overview](https://github.com/user-attachments/assets/24725cc9-ef4c-4f15-add4-dc1a8e198b3a)
 
   
