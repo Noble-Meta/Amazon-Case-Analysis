@@ -58,6 +58,14 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 - Attention to details in solving step-by-step Excel issues
 
 
+## 🧭 How to Use
+
+1. Open `Amazon_Case_Study.xlsx`
+2. Use slicers to filter charts by category, price, or rating
+3. Explore dashboards for performance comparisons
+4. View pivot tables for raw calculations
+
+
 ## Dashboard Preview
 
 ### Revenue/Discount Overview
