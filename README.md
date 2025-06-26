@@ -27,13 +27,13 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
   ## 1. Data Cleaning
 Before proceeding with the Analysis, the following steps were taken using MS Excel **Power Query** to ensure proper cleaning of the dataset  preparing it for Analysis.
 
-1.1 Converted range to Table <br>
-1.2 Romoved errors and inconsistencies from dataset <br>
-1.3 Converted text columns (e.g review) into numeric format <br>
-1.4 Removed irrelevant columns <br>
-1.5 Made all headers Uppercase <br>
-1.6 Removed unnecessary duplicates <br>
-1.7 Retained links in relevant columns <br>
+  1.1 Converted range to Table <br>
+  1.2 Romoved errors and inconsistencies from dataset <br>
+  1.3 Converted text columns (e.g review) into numeric format <br>
+  1.4 Removed irrelevant columns <br>
+  1.5 Made all headers Uppercase <br>
+  1.6 Removed unnecessary duplicates <br>
+  1.7 Retained links in relevant columns <br>
 
 ## 2. Analysis
 1. Calculated average discount % by category
@@ -94,6 +94,10 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
 [WhatsApp](https://wa.me/2348130081897)  
 [GitHub Profile](https://github.com/Noble-Meta)
+
+
+## License
+This project is open-source and free to use for learning or portfolio purposes.
 
 
   
