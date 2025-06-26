@@ -23,21 +23,21 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 - Formulas (XLOOKUP, COUNTIF, SUMIF, etc).
 - Data Cleaning Techniques
 
-# Questions Answered / Problems solved
+# Questions Answered / Problems Solved
 
   ## 1. Data Cleaning
 Before proceeding with the Analysis, the following steps were taken using MS Excel **Power Query** to ensure proper cleaning of the dataset  preparing it for Analysis.
 
-1.1 Convert the range to Table
+1.1 Converted range to Table
 1.2 Romoved errors and inconsistencies from dataset
 1.3 Converted text columns (e.g review) into numeric format
 1.4 Removed irrelevant columns
 1.5 Made all headers Uppercase
-1.6 Removed unnecessary duolicates
+1.6 Removed unnecessary duplicates
 1.7 Retained links in relevant columns
 
 ## 2. Analysis
-1. Calculated average discount % by catefory
+1. Calculated average discount % by category
 2. Found product count by category
 3. Counted total reviews per category
 4. Determined highest average-rated products
