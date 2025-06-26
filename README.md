@@ -57,8 +57,14 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 - Ability to create interactive dashboards
 - Attention to details in solving step-by-step Excel issues
 
+## Key Insights
+- Average discount % by product category
+- Top-rated and most-reviewed products
+- Products with ≥50% discounts
+- Revenue and review trends by category
+- Relationship between ratings and discounts
 
-## 🧭 How to Use
+## How to Use
 
 1. Open `Amazon_Case_Study.xlsx`
 2. Use slicers to filter charts by category, price, or rating
@@ -83,7 +89,11 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 ![Customer Feedback Insights](https://github.com/user-attachments/assets/cb1fc10b-1fa8-4095-844a-bf2c53d068a8)
 
 
-
+## Author
+**Emmanuel Akpan**  
+[LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
+[WhatsApp](https://wa.me/2348130081897)  
+[GitHub Profile](https://github.com/yourusername)
 
 
   
