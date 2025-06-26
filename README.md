@@ -93,7 +93,7 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 **Emmanuel Akpan**  
 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
 [WhatsApp](https://wa.me/2348130081897)  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Noble-Meta)
 
 
   
