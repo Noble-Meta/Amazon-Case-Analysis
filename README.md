@@ -15,7 +15,7 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
   
 ## Tools Used
 
-[Microsoft Excel] (https://www.microsoft.com/en-us/microsoft-365/try)
+[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/try)
 - Pivot Tables and Charts
 - Slicers and Filters
 - Scatter Plots
