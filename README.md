@@ -1,6 +1,5 @@
 # AMAZON CASE ANALYSIS
-
-Excel Dashboard Analysis for Amazon Product Dataset
+An Excel Dashboard Analysis for Amazon Product Dataset
 
 # Project Overview
 
