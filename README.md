@@ -78,23 +78,11 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 
 | Revenue/Discount | Rating | Feedback |
 |------------------|--------|----------|
-| ![Gender](Visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |
-
-  
-![Revenue and Discount Overview](https://github.com/user-attachments/assets/24725cc9-ef4c-4f15-add4-dc1a8e198b3a)
-
-
-###  vs Discount
-
-![Product Distribution](https://github.com/user-attachments/assets/17777bab-1c9a-41da-a988-32be777e1e26)
-
-
-### 
-
-![Customer Feedback Insights](https://github.com/user-attachments/assets/cb1fc10b-1fa8-4095-844a-bf2c53d068a8)
+| ![Products](Visuals/Product Distribution.png) | ![Rating](visuals/Revenue and Discount Overview.png) | ![Feedback](visuals/Customer Feedback Insights.png) |
 
 
 ## Author
+
 **Emmanuel Akpan**  
 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
 [WhatsApp](https://wa.me/2348130081897)  
