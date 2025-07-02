@@ -74,17 +74,22 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 
 ## Dashboard Preview
 
-### Revenue/Discount Overview
+## Visual Feeds
+
+| Revenue/Discount | Rating | Feedback |
+|------------------|--------|----------|
+| ![Gender](Visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |
+
   
 ![Revenue and Discount Overview](https://github.com/user-attachments/assets/24725cc9-ef4c-4f15-add4-dc1a8e198b3a)
 
 
-### Rating vs Discount
+###  vs Discount
 
 ![Product Distribution](https://github.com/user-attachments/assets/17777bab-1c9a-41da-a988-32be777e1e26)
 
 
-### Feedback
+### 
 
 ![Customer Feedback Insights](https://github.com/user-attachments/assets/cb1fc10b-1fa8-4095-844a-bf2c53d068a8)
 
