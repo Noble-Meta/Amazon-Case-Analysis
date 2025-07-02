@@ -5,6 +5,16 @@ An Excel Dashboard Analysis for Amazon Product Dataset
 
 This project analyzes a product dataset using Excel. It includes detailed dashboards, Pivot Table Insights, and data Visualizations. Every question asked and problem solved is documented for transparency and learning.
 
+
+## Folder Structure
+
+| Folder         | Description                              |
+|----------------|------------------------------------------|
+| `/Data`        | Raw data files               |
+| `/Reports`     | Excel (.xlxx) report file             |
+| `/Visuals`     | Exported charts              |
+
+
 ## Project Highlights
 
 - Cleaned and analyzed raw dataset (1,000+ entries).
