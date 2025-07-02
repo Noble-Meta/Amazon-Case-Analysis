@@ -78,7 +78,7 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 
 | Revenue/Discount | Rating | Feedback |
 |------------------|--------|----------|
-| ![Products](Visuals/Product Distribution.png) | ![Rating](visuals/Revenue and Discount Overview.png) | ![Feedback](visuals/Customer Feedback Insights.png) |
+| ![Products](Visuals/Product_Distribution.png) | ![Rating](visuals/Revenue_and_Discount_Overview.png) | ![Feedback](visuals/Customer_Feedback_Insights.png) |
 
 
 ## Author
