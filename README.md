@@ -5,6 +5,7 @@ An Excel Dashboard Analysis for Amazon Product Dataset
 
 This project analyzes a product dataset using Excel. It includes detailed dashboards, Pivot Table Insights, and data Visualizations. Every question asked and problem solved is documented for transparency and learning.
 
+---
 
 ## Folder Structure
 
@@ -14,6 +15,7 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 | `/Reports`     | Excel (.xlsx) report file             |
 | `/Visuals`     | Exported charts              |
 
+---
 
 ## Project Highlights
 
@@ -22,6 +24,8 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 - USed slicers to filter across multiple worksheets.
 - Computer revenue, discounts, reviews, and rating metrics.
 - Answered over 15+ real-world excel and analysis questions.
+
+---
   
 ## Tools Used
 
@@ -32,7 +36,10 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 - Formulas (XLOOKUP, COUNTIF, SUMIF, etc).
 - Data Cleaning Techniques
 
+---
+
 # Questions Answered / Problems Solved
+--
 
   ## 1. Data Cleaning
 Before proceeding with the Analysis, the following steps were taken using MS Excel **Power Query** to ensure proper cleaning of the dataset  preparing it for Analysis.
@@ -45,6 +52,8 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
   1.6 Removed unnecessary duplicates <br>
   1.7 Retained links in relevant columns <br>
 
+---
+
 ## 2. Analysis
 1. Calculated average discount % by category
 2. Found product count by category
@@ -56,16 +65,22 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 8. Used rating score to find top 5 products
 9. Show rating vs discount (correlation)
 
+---
+
 ## GitHub Upload
 - Created GitHub repository
 - Uploaded Excel file and README
 - Documented all steps clearly for public reference
+
+---
 
 ## Learning Outcome
 - Deep Excel data analysis skills
 - Clear understanding of business problems
 - Ability to create interactive dashboards
 - Attention to details in solving step-by-step Excel issues
+
+---
 
 ## Key Insights
 - Average discount % by product category
@@ -74,6 +89,8 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 - Revenue and review trends by category
 - Relationship between ratings and discounts
 
+---
+
 ## How to Use
 
 1. Open `Amazon_Case_Study.xlsx`
@@ -81,12 +98,15 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 3. Explore dashboards for performance comparisons
 4. View pivot tables for raw calculations
 
+---
+
 ## Visual Feeds
 
 | Product by Category | Revenue/Discount| Feedback |
 |---------------------|-----------------|----------|
 | ![Products](Visuals/Product_Distribution.png) | ![Rating](Visuals/Revenue_and_Discount_Overview.png) | ![Feedback](Visuals/Customer_Feedback_Insights.png) |
 
+---
 
 ## Author
 
@@ -95,6 +115,7 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 [WhatsApp](https://wa.me/2348130081897)  
 [GitHub Profile](https://github.com/Noble-Meta)
 
+---
 
 ## License
 This project is open-source and free to use for learning or portfolio purposes.
