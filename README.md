@@ -11,7 +11,7 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 | Folder         | Description                              |
 |----------------|------------------------------------------|
 | `/Data`        | Raw data files               |
-| `/Reports`     | Excel (.xlxx) report file             |
+| `/Reports`     | Excel (.xlsx) report file             |
 | `/Visuals`     | Exported charts              |
 
 
@@ -80,9 +80,6 @@ Before proceeding with the Analysis, the following steps were taken using MS Exc
 2. Use slicers to filter charts by category, price, or rating
 3. Explore dashboards for performance comparisons
 4. View pivot tables for raw calculations
-
-
-## Dashboard Preview
 
 ## Visual Feeds
 
