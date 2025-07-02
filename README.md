@@ -39,7 +39,7 @@ This project analyzes a product dataset using Excel. It includes detailed dashbo
 ---
 
 # Questions Answered / Problems Solved
---
+
 
   ## 1. Data Cleaning
 Before proceeding with the Analysis, the following steps were taken using MS Excel **Power Query** to ensure proper cleaning of the dataset  preparing it for Analysis.
